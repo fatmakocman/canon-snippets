@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<button type="${1:button}" class="rs-cog"></button>
+]]></content>
+<tabTrigger>rs-button-cog</tabTrigger>
+</snippet>

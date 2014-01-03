@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start Utility Nav -->
+<div class="rs-nav-utility">
+  <div class="rs-container">
+    
+  </div>
+</div>
+<!-- End Utility Nav -->
+]]></content>
+<tabTrigger>rs-nav-utility</tabTrigger>
+</snippet>

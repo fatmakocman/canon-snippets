@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start $1 Table Overlay Empty -->
+<div class="rs-table-overlay">
+  <div class="rs-table-overlay-content">
+    <div class="rs-table-overlay-title">You don't have any ${1:[product]} yet.</div>
+    <div class="rs-table-overlay-subtitle">${2:Create one now.}</div>
+    <div class="rs-table-overlay-message">${3:An additional line to explain why this is useful and a link for more info.} Learn more about <a href="${4:#}">$1 <i class="rs-icon-external"></i></a></div>
+  </div>
+</div>
+<!-- End $1 Table Overlay Empty -->
+]]></content>
+<tabTrigger>rs-table-overlay-empty</tabTrigger>
+</snippet>

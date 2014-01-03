@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<span class="rs-status rs-status-warning">${1:Warning}</span>
+]]></content>
+<tabTrigger>rs-status-warning</tabTrigger>
+</snippet>

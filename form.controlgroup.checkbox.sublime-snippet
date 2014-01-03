@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start $1 Control Group -->
+<div class="rs-control-group">
+  <label class="rs-control-label">${1:Group Label}</label>
+  <div class="rs-controls">
+    <label class="rs-checkbox">
+      <input type="checkbox">
+      ${2:Dallas (DFW)}
+    </label>
+    <label class="rs-checkbox">
+      <input type="checkbox">
+      ${3:Chicago (ORD)}
+    </label>
+    <label class="rs-checkbox">
+      <input type="checkbox">
+      ${4:London (LON)}
+    </label>
+  </div>
+</div>
+<!-- End $1 Control Group -->
+]]></content>
+<tabTrigger>rs-control-group-checkbox</tabTrigger>
+</snippet>

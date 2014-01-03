@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start $1 Control Group -->
+<div class="rs-control-group error">
+  <label class="rs-control-label">${1:Text Area Label}</label>
+  <div class="rs-controls">
+    <textarea class="rs-input-xlarge"></textarea>
+  </div>
+</div>
+<!-- End $1 Control Group -->
+]]></content>
+<tabTrigger>rs-control-group-textarea</tabTrigger>
+</snippet>

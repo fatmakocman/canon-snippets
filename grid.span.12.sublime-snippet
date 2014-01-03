@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div class="span-12">
+	${1:}
+</div>
+]]></content>
+<tabTrigger>span-12</tabTrigger>
+</snippet>

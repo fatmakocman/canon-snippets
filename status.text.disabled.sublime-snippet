@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<span class="rs-status-disabled">${1:Disabled}</span>
+]]></content>
+<tabTrigger>rs-status-text-disabled</tabTrigger>
+</snippet>

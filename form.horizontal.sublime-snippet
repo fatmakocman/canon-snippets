@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<form class="rs-form-horizontal rs-form-${1:small}">
+	
+</form>
+]]></content>
+<tabTrigger>rs-form-horizontal</tabTrigger>
+</snippet>

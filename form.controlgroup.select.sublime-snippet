@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start $1 Control Group -->
+<div class="rs-control-group">
+  <label class="rs-control-label">${1:Label}</label>
+  <div class="rs-controls">
+    <select>
+      <option value="${2:1}">${3:Option One}</option>
+    </select>
+  </div>
+</div>
+<!-- End $1 Control Group -->
+]]></content>
+<tabTrigger>rs-control-group-select</tabTrigger>
+</snippet>

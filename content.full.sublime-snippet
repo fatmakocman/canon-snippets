@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start Content -->
+<div class="rs-main">
+  <div class="rs-content rs-panel">
+
+  </div>
+</div>
+<!-- End Content -->
+]]></content>
+<tabTrigger>rs-content-full</tabTrigger>
+</snippet>

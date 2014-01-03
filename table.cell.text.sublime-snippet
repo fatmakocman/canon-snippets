@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<td class="rs-table-text">${1:Text}</td>
+]]></content>
+<tabTrigger>rs-td-text</tabTrigger>
+</snippet>

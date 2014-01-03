@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<span class="rs-status-error">${1:Error}</span>
+]]></content>
+<tabTrigger>rs-status-text-error</tabTrigger>
+</snippet>

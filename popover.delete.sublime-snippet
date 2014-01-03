@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start Delete $2 Confirmation Popover -->
+<div class="rs-popover">
+    <div class="rs-popover-arrow rs-popover-arrow-${1:top-left}"></div>
+    <div class="rs-popover-content">
+        <div class="rs-popover-body">
+        	<strong>Permanently delete</strong> this ${2:product}?
+        </div>
+        <div class="rs-popover-footer rs-btn-group">
+            <div class="rs-btn rs-btn-primary">Delete $2</div>
+            <div class="rs-btn rs-btn-link">Cancel</div>
+        </div>
+    </div>
+</div>
+<!-- End Delete $2 Confirmation Popover -->
+]]></content>
+<tabTrigger>rs-popover-delete</tabTrigger>
+</snippet>

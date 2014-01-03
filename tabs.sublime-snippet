@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start Tabs -->
+<ul class="rs-tabs">
+  <li class="active">
+    <a href="#">${1:Selected Tab}</a>
+  </li>
+  <li>
+    <a href="#">${2:Normal Tab}</a>
+  </li>
+</ul>
+<div class="rs-tab-content">
+  <div class="rs-tab-pane active">
+    <p>${3:Tab content pane one}</p>
+  </div>
+  <div class="rs-tab-pane">
+    <p>${4:Tab content pane two}</p>
+  </div>
+</div>
+<!-- End Tabs -->
+]]></content>
+<tabTrigger>rs-tabs</tabTrigger>
+</snippet>

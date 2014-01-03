@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start $1 Facet Section -->
+<div class="rs-facet-section rs-facet-section-small">
+  <div class="rs-facet-section-title">${1:Section}</div>
+  <div class="rs-facet-section-body">
+    <ul class="rs-facet-list">
+      
+    </ul>
+    <div class="rs-facet-section-toggle"><i class="rs-arrow"></i> more</div>
+  </div>
+</div>
+<!-- End $1 Facet Section -->
+]]></content>
+<tabTrigger>rs-facet-section</tabTrigger>
+</snippet>

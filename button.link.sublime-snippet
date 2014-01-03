@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<button type="${1:button}" class="rs-btn rs-btn-link">${2:Cancel}</button>
+]]></content>
+<tabTrigger>rs-button-link</tabTrigger>
+</snippet>

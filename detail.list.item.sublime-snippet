@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<li class="rs-detail-item">
+  <div class="rs-detail-key">${1:Key}</div>
+  <div class="rs-detail-value">${2:Value}</div>
+</li>
+]]></content>
+<tabTrigger>rs-detail-list-item</tabTrigger>
+</snippet>

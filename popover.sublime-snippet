@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start ${1:Example} Popover -->
+<div class="rs-popover">
+    <div class="rs-popover-arrow rs-popover-arrow-${2:top-left}"></div>
+    <div class="rs-popover-content">
+        <div class="rs-popover-body">
+        	<!-- Start Popover Content -->
+
+        	<!-- End Popover Content -->
+        </div>
+        <div class="rs-popover-footer rs-btn-group">
+            <div class="rs-btn rs-btn-primary">${2:Save}</div>
+            <div class="rs-btn rs-btn-link">Cancel</div>
+        </div>
+    </div>
+</div>
+<!-- End ${1:Example} Popover -->
+]]></content>
+<tabTrigger>rs-popover</tabTrigger>
+</snippet>

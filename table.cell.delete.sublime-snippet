@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<td class="rs-table-delete">
+	<button type="button" class="rs-delete"></button>
+</td>
+]]></content>
+<tabTrigger>rs-td-delete</tabTrigger>
+</snippet>

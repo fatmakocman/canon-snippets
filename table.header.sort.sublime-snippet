@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<th>
+	<a href="" class="rs-table-sort">
+	  <span class="rs-table-sort-text">${1:Header}</span>
+	  <span class="rs-table-sort-indicator"></span>
+	</a>
+</th>
+]]></content>
+<tabTrigger>rs-th-sort</tabTrigger>
+</snippet>

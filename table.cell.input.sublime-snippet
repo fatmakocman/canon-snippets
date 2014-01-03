@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<td class="rs-table-input rs-input-medium">
+	<input type="text" placeholder="Input" >
+</td>
+]]></content>
+<tabTrigger>rs-td-input</tabTrigger>
+</snippet>

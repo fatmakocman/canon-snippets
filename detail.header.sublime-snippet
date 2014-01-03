@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+<div class="rs-detail-header">
+  <div class="rs-detail-header-actions">
+    <div class="rs-dropdown">
+      <button class="rs-btn rs-btn-action rs-dropdown-toggle">
+        <span class="rs-cog"></span>
+        Actions
+        <span class="rs-caret"></span>
+      </button>
+      <ul class="rs-dropdown-menu visible" style="right:0;">
+        <!-- Start Action Items -->
+
+        <!-- End Action Items -->
+      </ul>
+    </div>
+  </div>
+  <div class="rs-detail-header-subtitle">${1:Product Category}</div>
+  <div class="rs-detail-header-title">${2:Entity Name}</div>
+</div>
+]]></content>
+<tabTrigger>rs-detail-header</tabTrigger>
+</snippet>

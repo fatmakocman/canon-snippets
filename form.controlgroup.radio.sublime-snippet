@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start $1 Control Group -->
+<div class="rs-control-group">
+  <label class="rs-control-label">${1:Group Label}</label>
+  <div class="rs-controls">
+    <label class="rs-radio">
+      <input type="radio" name="option">
+      <strong>${2:Option A}</strong><br>
+      <span class="rs-help-block">A short, optional description</span>
+    </label>
+    <label class="rs-radio">
+      <input type="radio" name="option">
+      <strong>${2:Option B}</strong>
+      <span class="rs-help-block">A short, optional description</span>
+    </label>
+  </div>
+</div>
+<!-- End $1 Control Group -->
+]]></content>
+<tabTrigger>rs-control-group-radio</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<div class="rs-bar rs-bar-ok"></div>
+]]></content>
+<tabTrigger>rs-bar-ok</tabTrigger>
+</snippet>

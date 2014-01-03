@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<span class="rs-status-processing">${1:Processing}</span>
+]]></content>
+<tabTrigger>rs-status-text-processing</tabTrigger>
+</snippet>

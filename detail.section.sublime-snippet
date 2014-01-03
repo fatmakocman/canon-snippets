@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start $1 Detail Section -->
+<div class="rs-detail-section">
+  <div class="rs-detail-section-header">
+    <div class="rs-detail-section-title">${1:Entity Details}</div>
+  </div>
+  <div class="rs-detail-section-body">
+    <!-- Start Section Content -->
+    
+    <!-- End Section Content -->
+  </div>
+</div>
+<!-- End $1 Detail Section -->
+]]></content>
+<tabTrigger>rs-detail-section</tabTrigger>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start $1 Facet Item -->
+<li class="rs-facet-item">
+	<i class="rs-facet-checkbox"></i>
+	<div class="rs-facet-label">${1:Label}</div>
+	<div class="rs-facet-count">(${2:0})</div>
+</li>
+<!-- End $1 Facet Item -->
+]]></content>
+<tabTrigger>rs-facet-item</tabTrigger>
+</snippet>

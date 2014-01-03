@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<span class="rs-help-block">${1:This is some subtext.}</span>
+]]></content>
+<tabTrigger>rs-help-block</tabTrigger>
+</snippet>

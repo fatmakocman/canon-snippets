@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<div class="rs-embedded-list-table-wrapper rs-embedded-${1:small}">
+	<table class="rs-list-table rs-embedded-list-table">
+	  <thead>
+	    <tr>
+	      
+	    </tr>
+	  </thead>
+	  <tbody>
+	    <tr>
+	      
+	    </tr>
+	  </tbody>
+	</table>
+	<!-- Start Table Overlays -->
+
+	<!-- End Table Overlays -->
+</div>
+]]></content>
+<tabTrigger>rs-table-embedded</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<li class="rs-nav-item">
+	<a class="rs-nav-link" href="${1:#}">${2:Nav Title}</a>
+</li>
+]]></content>
+<tabTrigger>rs-nav-item</tabTrigger>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<li class="rs-nav-item rs-dropdown rs-primary-dropdown">
+  <a class="rs-nav-link rs-dropdown-toggle" href="${1:#}">${2:Nav Title} <i class="rs-caret"></i></a>
+  <!-- Start Dropdown -->
+	<ul class="rs-dropdown-menu hidden">
+		
+	</ul>
+	<!-- End Dropdown -->
+</li>
+]]></content>
+<tabTrigger>rs-nav-item-dropdown</tabTrigger>
+</snippet>

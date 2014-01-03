@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<td class="rs-table-cog">
+	<div class="rs-dropdown">
+		<div class="rs-cog rs-dropdown-toggle"></div>
+		<ul class="rs-dropdown-menu hidden">
+			
+		</ul>
+	</div>
+</td>
+]]></content>
+<tabTrigger>rs-td-cog</tabTrigger>
+</snippet>

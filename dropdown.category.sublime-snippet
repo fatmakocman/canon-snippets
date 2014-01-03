@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<li><span class="rs-dropdown-category">${1:Title}</span></li>
+]]></content>
+<tabTrigger>rs-dropdown-category</tabTrigger>
+</snippet>

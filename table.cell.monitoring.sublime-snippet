@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<td class="rs-table-status-list">
+  <ul class="rs-status-list">
+    <li class="rs-status-list-item">
+      <div class="rs-icon-status rs-status-ok"></div>
+    </li>
+    <li class="rs-status-list-item">
+      <div class="rs-icon-status rs-status-warning"></div>
+    </li>
+    <li class="rs-status-list-item">
+      <div class="rs-icon-status rs-status-error"></div>
+    </li>
+    <li class="rs-status-list-item">
+      <div class="rs-icon-status rs-status-disabled"></div>
+    </li>
+  </ul>
+</td>
+]]></content>
+<tabTrigger>rs-td-monitoring</tabTrigger>
+</snippet>

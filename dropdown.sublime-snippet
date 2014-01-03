@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start Dropdown -->
+<ul class="rs-dropdown-menu hidden">
+	
+</ul>
+<!-- End Dropdown -->
+]]></content>
+<tabTrigger>rs-dropdown</tabTrigger>
+</snippet>

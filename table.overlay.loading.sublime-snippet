@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start Table Overlay Loading -->
+<div class="rs-table-overlay rs-table-overlay-loading">
+  <div class="rs-table-overlay-content">
+    <div class="rs-table-overlay-message">Loading&hellip;</div>
+  </div>
+</div>
+<!-- End Table Overlay Loading -->
+]]></content>
+<tabTrigger>rs-table-overlay-loading</tabTrigger>
+</snippet>

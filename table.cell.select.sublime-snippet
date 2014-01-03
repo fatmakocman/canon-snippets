@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<td class="rs-table-select">
+  <select class="rs-input-medium">
+    <option value="1">${1:Select Option 1}</option>
+    <option value="2">${2:Select Option 2}</option>
+    <option value="3">${3:Select Option 3}</option>
+  </select>
+</td>
+]]></content>
+<tabTrigger>rs-td-select</tabTrigger>
+</snippet>

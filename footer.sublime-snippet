@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start Content -->
+<div class="rs-nav-footer">
+  <div class="rs-container">
+    <ul class="rs-nav">
+      <li class="rs-nav-item">© 2013 Rackspace, US</li>
+      <li class="rs-nav-item"><a class="rs-nav-link" href="">Terms & Privacy</a></li>
+      <li class="rs-nav-item"><a class="rs-nav-link" href="">Application News</a></li>
+    </ul>
+    <ul class="rs-nav rs-pull-right">
+      <li class="rs-nav-item"><a class="rs-nav-link" href="#">Feedback</a></li>
+    </ul>
+  </div>
+</div>
+<!-- End Content -->
+]]></content>
+<tabTrigger>rs-footer</tabTrigger>
+</snippet>

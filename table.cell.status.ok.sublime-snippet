@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<td class="rs-table-status rs-table-status-ok"></td>
+]]></content>
+<tabTrigger>rs-td-status-ok</tabTrigger>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start $1 Button Group -->
+<div class="rs-btn-group">
+  <button class="rs-btn rs-btn-primary">${1:Primary Action}</button>
+  <button class="rs-btn">${2:Secondary Action}</button>
+  <a class="rs-btn rs-btn-link">Cancel</a>
+</div>
+<!-- End $1 Button Group -->
+]]></content>
+<tabTrigger>rs-button-group</tabTrigger>
+</snippet>

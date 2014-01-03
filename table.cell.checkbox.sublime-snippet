@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<td class="rs-table-checkbox"><input type="checkbox" /></td>
+]]></content>
+<tabTrigger>rs-td-checkbox</tabTrigger>
+</snippet>

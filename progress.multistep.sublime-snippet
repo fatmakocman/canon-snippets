@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+<div class="rs-progress">
+  <div class="rs-progress-inner">
+    <div class="rs-segment" style="width: ${1:15%}">
+      <div class="rs-bar rs-bar-ok"></div>
+      <div class="rs-caption">${2:1. Step One}</div>
+    </div>
+    <div class="rs-segment" style="width: ${3:35%}">
+      <div class="rs-bar rs-bar-ok rs-bar-striped"></div>
+      <div class="rs-caption">${4:2. Step Two}</div>
+    </div>
+    <div class="rs-segment" style="width: ${5:15%}">
+      <div class="rs-bar rs-bar-processing"></div>
+      <div class="rs-caption">${6:3. Step Three}</div>
+    </div>
+    <div class="rs-segment" style="width: ${7:20%}">
+      <div class="rs-bar rs-bar-processing rs-bar-striped"></div>
+      <div class="rs-caption">${8:4. Step Four}</div>
+    </div>
+    <div class="rs-segment" style="width: ${9:15%}">
+      <div class="rs-bar"></div>
+      <div class="rs-caption">${10:5. Step Five}</div>
+    </div>
+  </div>
+</div>
+]]></content>
+<tabTrigger>rs-progress-multi-step</tabTrigger>
+</snippet>

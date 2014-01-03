@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<button type="${1:button}" class="rs-btn rs-btn-primary">${2:Label}</button>
+]]></content>
+<tabTrigger>rs-button-primary</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<button type="${1:button}" class="rs-edit"></button>
+]]></content>
+<tabTrigger>rs-button-edit</tabTrigger>
+</snippet>

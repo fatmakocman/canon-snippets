@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<span class="rs-validation-inline"><i class="rs-validation-indicator"></i>${1:Timeout is less than check duration}</span>
+]]></content>
+<tabTrigger>rs-validation-message</tabTrigger>
+</snippet>

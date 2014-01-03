@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<th class="rs-table-cog"></th>
+]]></content>
+<tabTrigger>rs-th-cog</tabTrigger>
+</snippet>

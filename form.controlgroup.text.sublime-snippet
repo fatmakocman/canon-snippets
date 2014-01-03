@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<!-- Start $1 Control Group -->
+<div class="rs-control-group">
+  <label class="rs-control-label">${1:Field Label}</label>
+  <div class="rs-controls">
+    <input type="text" name="$">
+  </div>
+</div>
+<!-- End $1 Control Group -->
+]]></content>
+<tabTrigger>rs-control-group-text</tabTrigger>
+</snippet>

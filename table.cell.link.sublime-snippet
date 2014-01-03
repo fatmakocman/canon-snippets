@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<td class="rs-table-link"><a href="${1:#}">${2:Link Name}</a></td>
+]]></content>
+<tabTrigger>rs-td-link</tabTrigger>
+</snippet>

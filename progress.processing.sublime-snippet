@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="rs-progress">
+  <div class="rs-progress-inner">
+    <div class="rs-segment" style="width: ${1:50%}">
+      <div class="rs-bar rs-bar-processing"></div>
+    </div>
+  </div>
+</div>
+]]></content>
+<tabTrigger>rs-progress-processing</tabTrigger>
+</snippet>
